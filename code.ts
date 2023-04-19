@@ -1,4 +1,4 @@
-function currentSelection() {
+/* function currentSelection() {
   const selection = figma.currentPage.selection;
     if (selection.length === 0) {
       figma.showUI(
@@ -8,7 +8,7 @@ function currentSelection() {
     }
 }
 
-currentSelection();
+currentSelection(); */
 
 function createPage() {
   const pageOverlayTool = figma.createPage();
