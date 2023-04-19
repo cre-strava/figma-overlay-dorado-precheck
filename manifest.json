@@ -1,0 +1,11 @@
+{
+  "name": "Overlay Dorado Tool",
+  "id": "1228421044346467741",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ]
+}
